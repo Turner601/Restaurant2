@@ -1,1 +1,3 @@
 # Restaurant2
+
+Used a previous HTML project and created a menu with images, text, and an add to cart button. From there using JS I would have it where you clicked on Add To Cart button it would add it to a cart which showed number of items and total. Once you have added what you wanted, when clicking on CHECKOUT at the top it would take you to a checkout page which listed each item you selected, image of item, quantity, and total. Scrolling to the bottom of the checkout page you will see the total, subtoal, delievery/shipping total, and tax. Will clean this up later as I'm just trying to get the hang of using JS and making that work correctly. 
